@@ -9,7 +9,7 @@ juniper:
     type: network_device
 
 cisco:
-  platform: 'cisco_ios'
+  platform: 'ios'
   port: 22
   data:
     domain: 'lab.local'

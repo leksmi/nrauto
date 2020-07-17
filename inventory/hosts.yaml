@@ -1,0 +1,22 @@
+---
+vmx-core-1:
+  hostname: 10.252.136.210
+  groups:
+    - juniper
+
+vios-r1:
+  hostname: 10.252.136.211
+  groups:
+    - cisco
+
+vios-r2:
+  hostname: 10.252.136.212
+  groups:
+    - cisco
+
+vios-r3:
+  hostname: 10.252.136.213
+  groups:
+    - cisco
+
+

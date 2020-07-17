@@ -1,0 +1,18 @@
+---
+juniper:
+  platform: 'junos'
+  port: 22
+  data:
+    domain: 'lab.local'
+    site: local
+    role: router
+    type: network_device
+
+cisco:
+  platform: 'cisco_ios'
+  port: 22
+  data:
+    domain: 'lab.local'
+    site: local
+    role: router
+    type: network_device
